@@ -1,0 +1,2 @@
+# SmartTestDevOps
+Testiprojekti Gitin käyttöön.
